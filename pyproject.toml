@@ -1,5 +1,5 @@
 [project]
-name = ""
+name = "meorphis-python"
 version = "0.0.1-alpha.0"
 description = "The official Python library for the meorphis-test-7 API"
 readme = "README.md"
@@ -39,8 +39,8 @@ classifiers = [
 
 
 [project.urls]
-Homepage = "https://github.com/stainless-sdks/-python"
-Repository = "https://github.com/stainless-sdks/-python"
+Homepage = "https://github.com/meorphis-test/test-repo-4"
+Repository = "https://github.com/meorphis-test/test-repo-4"
 
 
 
