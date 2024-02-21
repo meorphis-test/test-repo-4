@@ -9,7 +9,6 @@ and offers both synchronous and asynchronous clients powered by [httpx](https://
 ## Documentation
 
 The REST API documentation can be found [on docs.meorphis-test-11.com](https://docs.meorphis-test-11.com). The full API of this library can be found in [api.md](api.md).
-
 ## Installation
 
 ```sh
@@ -260,7 +259,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
-We are keen for your feedback; please open an [issue](https://www.github.com/meorphis-test/test-repo-4/issues) with questions, bugs, or suggestions.
+We are keen for your feedback; please open an [issue](https://www.github.com/stainless-sdks/-python/issues) with questions, bugs, or suggestions.
 
 ## Requirements
 
