@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/meorphis-python.svg)](https://pypi.org/project/meorphis-python/)
 
-The Meorphis Test 7 Python library provides convenient access to the Meorphis Test 7 REST API from any Python 3.7+
+The Meorphis Test 7 Pythoon library provides convenient access to the Meorphis Test 7 REST API from any Python 3.7+
 application. The library includes type definitions for all request params and response fields,
 and offers both synchronous and asynchronous clients powered by [httpx](https://github.com/encode/httpx).
 
