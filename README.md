@@ -1,8 +1,8 @@
-# Meorphis Test 7 Python API library
+# Meorphis Test 7 Python API library!!!!!
 
 [![PyPI version](https://img.shields.io/pypi/v/meorphis-python.svg)](https://pypi.org/project/meorphis-python/)
 
-The Meorphis Test 7 Python library provides convenient access to the Meorphis Test 7 REST API from any Python 3.7+
+The Meorphis Test 7 Pythoon library provides convenient access to the Meorphis Test 7 REST API from any Python 3.7+
 application. The library includes type definitions for all request params and response fields,
 and offers both synchronous and asynchronous clients powered by [httpx](https://github.com/encode/httpx).
 
@@ -40,7 +40,7 @@ we recommend using [python-dotenv](https://pypi.org/project/python-dotenv/)
 to add `MEORPHIS_TEST_7_API_KEY="My API Key"` to your `.env` file
 so that your API Key is not stored in source control.
 
-## Async usage
+## Async usageee
 
 Simply import `AsyncMeorphisTest7` instead of `MeorphisTest7` and use `await` with each API call:
 
@@ -260,7 +260,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
-We are keen for your feedback; please open an [issue](https://www.github.com/meorphis-test/test-repo-4/issues) with questions, bugs, or suggestions.
+We are keen for your feedback; please open an [issue](https://www.github.com/stainless-sdks/-python/issues) with questions, bugs, or suggestions.
 
 ## Requirements
 
