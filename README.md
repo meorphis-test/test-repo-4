@@ -39,7 +39,7 @@ we recommend using [python-dotenv](https://pypi.org/project/python-dotenv/)
 to add `MEORPHIS_TEST_7_API_KEY="My API Key"` to your `.env` file
 so that your API Key is not stored in source control.
 
-## Async usage
+## Async usageee
 
 Simply import `AsyncMeorphisTest7` instead of `MeorphisTest7` and use `await` with each API call:
 
