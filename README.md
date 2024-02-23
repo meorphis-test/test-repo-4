@@ -1,6 +1,6 @@
 # Meorphis Test 7 Python API library!!!!!
 
-[![PyPI version](https://img.shields.io/pypi/v/meorphis-python.svg)](https://pypi.org/project/meorphis-python/)
+[![PyPI version](https://img.shields.io/pypi/v/meorphis-pythooon.svg)](https://pypi.org/project/meorphis-pythooon/)
 
 The Meorphis Test 7 Pythoon library provides convenient access to the Meorphis Test 7 REST API from any Python 3.7+
 application. The library includes type definitions for all request params and response fields,
@@ -8,11 +8,12 @@ and offers both synchronous and asynchronous clients powered by [httpx](https://
 
 ## Documentation
 
-The REST API documentation can be found [on docs.meorphis-test-9.com](https://docs.meorphis-test-9.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found [on docs.meorphis-test-15.com](https://docs.meorphis-test-15.com). The full API of this library can be found in [api.md](api.md).
+
 ## Installation
 
 ```sh
-pip install --pre meorphis-python
+pip install --pre meorphis-pythooon
 ```
 
 ## Usage
@@ -39,7 +40,7 @@ we recommend using [python-dotenv](https://pypi.org/project/python-dotenv/)
 to add `MEORPHIS_TEST_7_API_KEY="My API Key"` to your `.env` file
 so that your API Key is not stored in source control.
 
-## Async usage
+## Async usageee
 
 Simply import `AsyncMeorphisTest7` instead of `MeorphisTest7` and use `await` with each API call:
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2024-02-23)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/meorphis-test/test-repo-4/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Features
+
+* codegen changes ([89d8c26](https://github.com/meorphis-test/test-repo-4/commit/89d8c26e86162e126fbe2ff3d397f6fffaa84b8d))
+
+
+### Chores
+
+* Update README.md ([e6775fa](https://github.com/meorphis-test/test-repo-4/commit/e6775fa35419ec8713b75224bb6e45000a46b4cb))
+
 ## 0.1.0-alpha.4 (2024-02-23)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/meorphis-test/test-repo-4/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
