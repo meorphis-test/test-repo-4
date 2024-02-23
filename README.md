@@ -1,4 +1,4 @@
-# Meorphis Test 7 Python API library!!!!! :0
+# Meorphis Test 7 Python API library!!!!!
 
 [![PyPI version](https://img.shields.io/pypi/v/meorphis-pythooon.svg)](https://pypi.org/project/meorphis-pythooon/)
 
