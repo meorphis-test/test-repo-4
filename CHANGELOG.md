@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2024-02-23)
+
+Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/meorphis-test/test-repo-4/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
+
+### Features
+
+* resolve conflict ([8c30622](https://github.com/meorphis-test/test-repo-4/commit/8c30622cd7b61fa9cbc3e059101f3a63c5624e8b))
+
 ## 0.1.0-alpha.3 (2024-02-23)
 
 Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/meorphis-test/test-repo-4/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
